@@ -3,3 +3,4 @@ jdk:
   - oraclejdk7
   
  sudo: false
+ hw-tag: 'hw13'
