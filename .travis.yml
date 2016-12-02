@@ -1,6 +1,4 @@
 language: java
 jdk:
-  - oraclejdk7
-  
- sudo: false
- hw-tag: 'hw13'
+ - oraclejdk7
+script: ForwardingListTest
