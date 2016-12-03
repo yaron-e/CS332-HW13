@@ -1,4 +1,6 @@
 language: java
 jdk:
  - oraclejdk7
-script: java ForwardingListTest.class
+script: java TestRunner.class
+
+
