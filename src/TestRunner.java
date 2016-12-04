@@ -19,4 +19,4 @@ public class TestRunner {
     		  + "\nPassed = " + (result.getRunCount() - result.getFailureCount())
     		  + "\nIgnore = " + result.getIgnoreCount());
    }
-}  
+}   
